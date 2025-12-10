@@ -21,7 +21,7 @@ Webbutvecklare i utbildning @ TE4 Academy
 - Agil utveckling i team
 
 ## Kontakta mig
-[![https://www.linkedin.com/in/jonas-garbuzas-61bba9310/](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](din-linkedin-url)
-[![jonas.garbuzas06@gmail.com(https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:din@email.com)
+[![LinedIN](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](din-linkedin-url)
+[![MAIL](mailto:din@email.com)
 
 **Söker praktikplats våren 2026!**
