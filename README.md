@@ -20,8 +20,6 @@ Webbutvecklare i utbildning @ TE4 Academy
 - Firebase Authentication & Firestore
 - Agil utveckling i team
 
-## Kontakta mig
-[![LinedIN](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](din-linkedin-url)
-[![MAIL](mailto:din@email.com)
+
 
 **Söker praktikplats våren 2026!**
